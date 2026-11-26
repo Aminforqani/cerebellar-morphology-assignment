@@ -1,0 +1,9 @@
+# tested with Python 3.13 and these versions
+numpy==2.5.5
+scipy==1.18.1
+scikit-image==0.26.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+nibabel==5.5.0
+# optional, only for steps 5 and 6 (atlas cross-check)
+antspyx==0.6.3
